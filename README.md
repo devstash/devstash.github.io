@@ -1,2 +1,2 @@
-# devstash.github.io
-Landing
+# DevStash
+Coming Soon
