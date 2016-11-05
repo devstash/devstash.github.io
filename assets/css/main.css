@@ -1,10 +1,8 @@
 @import url(font-awesome.min.css);
-@import url("http://fonts.googleapis.com/css?family=Roboto:400,700");
 
 /*
-	Eventually by Pixelarity
-	pixelarity.com @pixelarity
-	License: pixelarity.com/license
+	DevStash
+	Simple Storage for Developers
 */
 
 /* Reset */
@@ -292,7 +290,7 @@
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Roboto", sans-serif;
+		font-family: "Product Sans", Arial, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		letter-spacing: -0.01em;
